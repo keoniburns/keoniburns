@@ -1,6 +1,6 @@
 <h1> 
-  Henlo! My name is Keoni Burns
-  <p>Dev Ops Apprentice</p>
+  Keoni Burns
+  <p>Apprentice DevOps Engineer</p>
 </h1>
 
 ## Links and such
@@ -9,17 +9,9 @@
 [Github](https://github.com/keoniburns)
 
 ## About Me
-I am currently a student at CSU Chico pursuing a degree in Computer Science. I intend to eventually get a masters in Machine Learning, but that's in the future because grad school is expensive lol. I was born and raised in the bay area and chico is the first place outside of the bay that I have lived. I love the outdoors and working out. 
-
-## interests
-I will always be down to talk about:
-* Super Smash Bros. Melee
-* Wightlifting and Nutrition
-* Movies
-* Music
+Currently a student at CSU Chico pursuing a degree in Computer Science. 
 
 ## you can always reach me at these
-* slack
 * email
 
 ## weaknesses
