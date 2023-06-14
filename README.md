@@ -21,7 +21,6 @@ I will always be down to talk about:
 ## you can always reach me at these
 * slack
 * email
-* phone: 650-863-9129
 
 ## weaknesses
 * I communicate less when I get stressed out. This is my biggest weakness and I am learning how to coommunicate more when things start to become too much
