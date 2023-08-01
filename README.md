@@ -12,7 +12,7 @@
 Currently a student at CSU Chico pursuing a degree in Computer Science. 
 
 ## you can always reach me at these
-* email
+* email (keoni.burns@gmail.com)
 
 ## weaknesses
 * I communicate less when I get stressed out. This is my biggest weakness and I am learning how to coommunicate more when things start to become too much
