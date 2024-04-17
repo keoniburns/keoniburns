@@ -1,6 +1,5 @@
 <h1> 
   Keoni Burns
-  <p>Apprentice DevOps Engineer</p>
 </h1>
 
 ## Links and such
