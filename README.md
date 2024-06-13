@@ -8,20 +8,9 @@
 [Github](https://github.com/keoniburns)
 
 ## About Me
-Currently a student at CSU Chico pursuing a degree in Computer Science. 
+Dynamic software engineer with 3 years of hands-on experience in developing and deploying production-level software. Specialized
+in machine learning and DevOps, with a proven ability to deliver high-quality solutions and stay ahead of industry trends. Excited to
+contribute technical expertise and enthusiasm to innovative tech projects.
 
 ## you can always reach me at these
 * email (keoni.burns@gmail.com)
-
-
-<!--
-- personal links 
-- about me
-- my first 90 days?
-- interests/discussion topics 
-- my role/ working style
-- how to communicate with me 
-- weaknesses 
-- strengths 
-- additional info
--->
