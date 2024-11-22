@@ -1,7 +1,7 @@
 <h1> 
   Keoni Burns
 </h1>
-just a dude typing way to hard on his keyboard.
+just a dude typing way too hard on his keyboard.
 
 
 ## Links and such
